@@ -1,0 +1,10 @@
+H:\Princess\Documents\1-JohnAbbot\Eplanner\ePlanner_BckEnd\EPlannerDB\bin\Debug\EPlannerDB.dll.config
+H:\Princess\Documents\1-JohnAbbot\Eplanner\ePlanner_BckEnd\EPlannerDB\bin\Debug\EPlannerDB.dll
+H:\Princess\Documents\1-JohnAbbot\Eplanner\ePlanner_BckEnd\EPlannerDB\bin\Debug\EPlannerDB.pdb
+H:\Princess\Documents\1-JohnAbbot\Eplanner\ePlanner_BckEnd\EPlannerDB\bin\Debug\EntityFramework.dll
+H:\Princess\Documents\1-JohnAbbot\Eplanner\ePlanner_BckEnd\EPlannerDB\bin\Debug\EntityFramework.xml
+H:\Princess\Documents\1-JohnAbbot\Eplanner\ePlanner_BckEnd\EPlannerDB\obj\Debug\EPlannerDB.csproj.AssemblyReference.cache
+H:\Princess\Documents\1-JohnAbbot\Eplanner\ePlanner_BckEnd\EPlannerDB\obj\Debug\EPlannerDB.csproj.CoreCompileInputs.cache
+H:\Princess\Documents\1-JohnAbbot\Eplanner\ePlanner_BckEnd\EPlannerDB\obj\Debug\EPlannerDB.csproj.CopyComplete
+H:\Princess\Documents\1-JohnAbbot\Eplanner\ePlanner_BckEnd\EPlannerDB\obj\Debug\EPlannerDB.dll
+H:\Princess\Documents\1-JohnAbbot\Eplanner\ePlanner_BckEnd\EPlannerDB\obj\Debug\EPlannerDB.pdb
