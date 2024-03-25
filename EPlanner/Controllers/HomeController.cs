@@ -1,4 +1,6 @@
-﻿using System;
+﻿using EPlannerDB.Interface;
+using EPlannerDB.Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -8,6 +10,16 @@ namespace EPLanner.Controllers
 {
     public class HomeController : Controller
     {
+        IRepository _Repo;
+
+        ModelMapping _ModelMapping;
+
+        public HomeController (IRepository Repo, ModelMapping ModelMapping)
+        {
+            _Repo = Repo;
+            _ModelMapping = ModelMapping;
+        }
+
         public ActionResult Index()
         {
             return View();
