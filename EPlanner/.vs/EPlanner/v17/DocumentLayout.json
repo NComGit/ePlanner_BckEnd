@@ -3,19 +3,17 @@
   "WorkspaceRootPath": "H:\\Princess\\Documents\\1-JohnAbbot\\Eplanner\\ePlanner_BckEnd\\EPLanner\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F65A0385-6637-4263-BEF0-CFEB34D5F918}|..\\EPlannerDB\\EPlannerDB.csproj|h:\\princess\\documents\\1-johnabbot\\eplanner\\eplanner_bckend\\eplannerdb\\models\\selectlists.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{47818812-5BAA-42AC-842B-17999B52E947}|EPLanner.csproj|h:\\princess\\documents\\1-johnabbot\\eplanner\\eplanner_bckend\\eplanner\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{47818812-5BAA-42AC-842B-17999B52E947}|EPLanner.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{47818812-5BAA-42AC-842B-17999B52E947}|EPLanner.csproj|h:\\princess\\documents\\1-johnabbot\\eplanner\\eplanner_bckend\\eplanner\\app_start\\ninjectwebcommon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{47818812-5BAA-42AC-842B-17999B52E947}|EPLanner.csproj|solutionrelative:app_start\\ninjectwebcommon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F65A0385-6637-4263-BEF0-CFEB34D5F918}|..\\EPlannerDB\\EPlannerDB.csproj|h:\\princess\\documents\\1-johnabbot\\eplanner\\eplanner_bckend\\eplannerdb\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{47818812-5BAA-42AC-842B-17999B52E947}|EPLanner.csproj|h:\\princess\\documents\\1-johnabbot\\eplanner\\eplanner_bckend\\eplanner\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{47818812-5BAA-42AC-842B-17999B52E947}|EPLanner.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F65A0385-6637-4263-BEF0-CFEB34D5F918}|..\\EPlannerDB\\EPlannerDB.csproj|h:\\princess\\documents\\1-johnabbot\\eplanner\\eplanner_bckend\\eplannerdb\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F65A0385-6637-4263-BEF0-CFEB34D5F918}|..\\EPlannerDB\\EPlannerDB.csproj|h:\\princess\\documents\\1-johnabbot\\eplanner\\eplanner_bckend\\eplannerdb\\interface\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -25,62 +23,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "H:\\Princess\\Documents\\1-JohnAbbot\\Eplanner\\ePlanner_BckEnd\\EPLanner\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "H:\\Princess\\Documents\\1-JohnAbbot\\Eplanner\\ePlanner_BckEnd\\EPLanner\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T18:05:05.245Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "NinjectWebCommon.cs",
-              "DocumentMoniker": "H:\\Princess\\Documents\\1-JohnAbbot\\Eplanner\\ePlanner_BckEnd\\EPLanner\\App_Start\\NinjectWebCommon.cs",
-              "RelativeDocumentMoniker": "App_Start\\NinjectWebCommon.cs",
-              "ToolTip": "H:\\Princess\\Documents\\1-JohnAbbot\\Eplanner\\ePlanner_BckEnd\\EPLanner\\App_Start\\NinjectWebCommon.cs",
-              "RelativeToolTip": "App_Start\\NinjectWebCommon.cs",
-              "ViewState": "AQIAACIAAAAAAAAAAAAowEEAAABfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T18:01:44.445Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "H:\\Princess\\Documents\\1-JohnAbbot\\Eplanner\\ePlanner_BckEnd\\EPLanner\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "H:\\Princess\\Documents\\1-JohnAbbot\\Eplanner\\ePlanner_BckEnd\\EPLanner\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAACQAAAAlAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-03-25T17:59:57.024Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Class1.cs",
-              "DocumentMoniker": "H:\\Princess\\Documents\\1-JohnAbbot\\Eplanner\\ePlanner_BckEnd\\EPlannerDB\\Class1.cs",
-              "RelativeDocumentMoniker": "..\\EPlannerDB\\Class1.cs",
-              "ToolTip": "H:\\Princess\\Documents\\1-JohnAbbot\\Eplanner\\ePlanner_BckEnd\\EPlannerDB\\Class1.cs",
-              "RelativeToolTip": "..\\EPlannerDB\\Class1.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 2,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "H:\\Princess\\Documents\\1-JohnAbbot\\Eplanner\\ePlanner_BckEnd\\EPlannerDB\\Repository.cs",
+              "RelativeDocumentMoniker": "..\\EPlannerDB\\Repository.cs",
+              "ToolTip": "H:\\Princess\\Documents\\1-JohnAbbot\\Eplanner\\ePlanner_BckEnd\\EPlannerDB\\Repository.cs",
+              "RelativeToolTip": "..\\EPlannerDB\\Repository.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAowCEAAAAwAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-25T17:25:46.18Z"
+              "WhenOpened": "2024-03-25T18:32:10.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "H:\\Princess\\Documents\\1-JohnAbbot\\Eplanner\\ePlanner_BckEnd\\EPlannerDB\\Interface\\IRepository.cs",
+              "RelativeDocumentMoniker": "..\\EPlannerDB\\Interface\\IRepository.cs",
+              "ToolTip": "H:\\Princess\\Documents\\1-JohnAbbot\\Eplanner\\ePlanner_BckEnd\\EPlannerDB\\Interface\\IRepository.cs",
+              "RelativeToolTip": "..\\EPlannerDB\\Interface\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T18:18:15.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SelectLists.cs",
+              "DocumentMoniker": "H:\\Princess\\Documents\\1-JohnAbbot\\Eplanner\\ePlanner_BckEnd\\EPlannerDB\\Models\\SelectLists.cs",
+              "RelativeDocumentMoniker": "..\\EPlannerDB\\Models\\SelectLists.cs",
+              "ToolTip": "H:\\Princess\\Documents\\1-JohnAbbot\\Eplanner\\ePlanner_BckEnd\\EPlannerDB\\Models\\SelectLists.cs",
+              "RelativeToolTip": "..\\EPlannerDB\\Models\\SelectLists.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T18:14:01.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "H:\\Princess\\Documents\\1-JohnAbbot\\Eplanner\\ePlanner_BckEnd\\EPLanner\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "H:\\Princess\\Documents\\1-JohnAbbot\\Eplanner\\ePlanner_BckEnd\\EPLanner\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB8AAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-25T18:05:05.245Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -22,7 +22,15 @@ namespace EPLanner.Controllers
 
         public ActionResult Index()
         {
-            return View();
+            SelectLists ddlFilter = new SelectLists();
+            ddlFilter.TodoItemsList = new SelectList((from a in _Repo.GetTodoItem()
+                                                      select new
+                                                      {
+                                                          Value = a.id,
+                                                          Text = a.title,
+                                                      }).Distinct(), "Value", "Text");
+  
+            return View(ddlFilter);
         }
 
         public ActionResult About()

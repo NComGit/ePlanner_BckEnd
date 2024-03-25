@@ -19,6 +19,20 @@ namespace EPlannerDB
             _Ctx.Context.Configuration.ProxyCreationEnabled = false;
         }
 
+        public IQueryable<TodoItem> GetTodoItem()
+        {
+            return _Ctx.Context.TodoItems;
+        }
+
+        public bool AddTodoItem(string title, string complete_incomplete)
+        {
+            return true;
+        }
+
+        public bool IsTodoItemExist(string title, string complete_incomplete)
+        {
+            throw new NotImplementedException();
+        }
         public void Dispose()
         {
             if (_Ctx != null)
@@ -26,5 +40,7 @@ namespace EPlannerDB
                 _Ctx.Dispose();
             }
         }
+
+
     }
 }
