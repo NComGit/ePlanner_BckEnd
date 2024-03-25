@@ -1,6 +1,7 @@
-﻿using EPlannerDB.Interfaces;
+﻿using EPlannerDB.Interface;
 using System;
 using System.Collections.Generic;
+using System.Data.Entity;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -20,7 +21,7 @@ namespace EPlannerDB
 
         public void Dispose()
         {
-            if (_Ctx != null )
+            if (_Ctx != null)
             {
                 _Ctx.Dispose();
             }
