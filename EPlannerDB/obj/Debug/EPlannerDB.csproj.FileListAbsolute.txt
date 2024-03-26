@@ -8,3 +8,17 @@ H:\Princess\Documents\1-JohnAbbot\Eplanner\ePlanner_BckEnd\EPlannerDB\obj\Debug\
 H:\Princess\Documents\1-JohnAbbot\Eplanner\ePlanner_BckEnd\EPlannerDB\obj\Debug\EPlannerDB.csproj.Up2Date
 H:\Princess\Documents\1-JohnAbbot\Eplanner\ePlanner_BckEnd\EPlannerDB\obj\Debug\EPlannerDB.dll
 H:\Princess\Documents\1-JohnAbbot\Eplanner\ePlanner_BckEnd\EPlannerDB\obj\Debug\EPlannerDB.pdb
+H:\Princess\Documents\1-JohnAbbot\Eplanner\ePlanner_BckEnd\EPlannerDB\bin\Debug\Microsoft.Web.Infrastructure.dll
+H:\Princess\Documents\1-JohnAbbot\Eplanner\ePlanner_BckEnd\EPlannerDB\bin\Debug\Microsoft.Web.Mvc.dll
+H:\Princess\Documents\1-JohnAbbot\Eplanner\ePlanner_BckEnd\EPlannerDB\bin\Debug\System.Web.Helpers.dll
+H:\Princess\Documents\1-JohnAbbot\Eplanner\ePlanner_BckEnd\EPlannerDB\bin\Debug\System.Web.Mvc.dll
+H:\Princess\Documents\1-JohnAbbot\Eplanner\ePlanner_BckEnd\EPlannerDB\bin\Debug\System.Web.Razor.dll
+H:\Princess\Documents\1-JohnAbbot\Eplanner\ePlanner_BckEnd\EPlannerDB\bin\Debug\System.Web.WebPages.Deployment.dll
+H:\Princess\Documents\1-JohnAbbot\Eplanner\ePlanner_BckEnd\EPlannerDB\bin\Debug\System.Web.WebPages.dll
+H:\Princess\Documents\1-JohnAbbot\Eplanner\ePlanner_BckEnd\EPlannerDB\bin\Debug\System.Web.WebPages.Razor.dll
+H:\Princess\Documents\1-JohnAbbot\Eplanner\ePlanner_BckEnd\EPlannerDB\bin\Debug\System.Web.Helpers.xml
+H:\Princess\Documents\1-JohnAbbot\Eplanner\ePlanner_BckEnd\EPlannerDB\bin\Debug\System.Web.Mvc.xml
+H:\Princess\Documents\1-JohnAbbot\Eplanner\ePlanner_BckEnd\EPlannerDB\bin\Debug\System.Web.Razor.xml
+H:\Princess\Documents\1-JohnAbbot\Eplanner\ePlanner_BckEnd\EPlannerDB\bin\Debug\System.Web.WebPages.xml
+H:\Princess\Documents\1-JohnAbbot\Eplanner\ePlanner_BckEnd\EPlannerDB\bin\Debug\System.Web.WebPages.Deployment.xml
+H:\Princess\Documents\1-JohnAbbot\Eplanner\ePlanner_BckEnd\EPlannerDB\bin\Debug\System.Web.WebPages.Razor.xml
